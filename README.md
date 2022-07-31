@@ -1,7 +1,7 @@
-# Carberra Tutorials: Branding
+# Carberra: Branding
 
-This is the official branding repository for [Carberra Tutorials](https://youtube.carberra.xyz).
+This is the official branding repository for [Carberra](https://youtube.carberra.xyz).
 
 ## Copyright
 
-All work is copyright © Carberra 2021.
+All work is copyright © Carberra 2021-2022.
