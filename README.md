@@ -4,4 +4,4 @@ This is the official branding repository for [Carberra](https://youtube.carberra
 
 ## Copyright
 
-All work is copyright © Carberra 2021-2022.
+All work is copyright © Carberra 2021-2024.
